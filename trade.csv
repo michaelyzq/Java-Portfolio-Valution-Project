@@ -1,0 +1,7 @@
+tickets, quantity, buy/sell, instrumentType, tradedate,underlying,maturity,strikePrice
+3333.HK,100,buy,Stock,2018-09-06,,,
+3333.HK,-110,buy,Stock,2018-09-06,,,
+0005.HK,200,buy,Stock,2018-09-06,,,
+3333.HKAugCall,100,buy,CallOption,2018-09-06,0005.HK,1,100
+3333.HKSepPut,-100,sell,CallOption,2018-09-06,0005.HK,2,100
+0700.HKSepCall,100,buy,CallOption,2018-09-06,0005.HK,2,290
